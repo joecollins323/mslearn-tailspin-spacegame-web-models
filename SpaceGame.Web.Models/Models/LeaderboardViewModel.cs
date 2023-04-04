@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace TailSpin.SpaceGame.Web.Models
+namespace SpaceGame.Web.Models
 {
     public class LeaderboardViewModel
     {
